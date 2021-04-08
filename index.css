@@ -1,0 +1,21 @@
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+div {
+  border: 1px;
+  background: #b0e2b0;
+  position: relative;
+}
+.close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgb(127, 6, 197);
+}
+.btn {
+  position: absolute;
+  /* top: 10px; */
+  right: 30px;
+  bottom: 2px;
+}
